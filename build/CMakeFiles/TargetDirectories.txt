@@ -1,0 +1,3 @@
+/mnt/d/wsl/workspace_git/public_data/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/wsl/workspace_git/public_data/build/CMakeFiles/edit_cache.dir
+/mnt/d/wsl/workspace_git/public_data/build/CMakeFiles/test.dir
