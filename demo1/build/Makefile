@@ -123,6 +123,33 @@ test/fast:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
 .PHONY : test/fast
 
+math.o: math.cpp.o
+
+.PHONY : math.o
+
+# target to build an object file
+math.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/math.cpp.o
+.PHONY : math.cpp.o
+
+math.i: math.cpp.i
+
+.PHONY : math.i
+
+# target to preprocess a source file
+math.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/math.cpp.i
+.PHONY : math.cpp.i
+
+math.s: math.cpp.s
+
+.PHONY : math.s
+
+# target to generate assembly for a file
+math.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/math.cpp.s
+.PHONY : math.cpp.s
+
 test.o: test.cpp.o
 
 .PHONY : test.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... test"
+	@echo "... math.o"
+	@echo "... math.i"
+	@echo "... math.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
