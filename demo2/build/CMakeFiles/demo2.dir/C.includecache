@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/wsl/workspace_git/public_data/demo2/main.c
+stdio.h
+-
+stdlib.h
+-
+math/MathFunctions.h
+/mnt/d/wsl/workspace_git/public_data/demo2/math/MathFunctions.h
+
+/mnt/d/wsl/workspace_git/public_data/demo2/math/MathFunctions.h
+
