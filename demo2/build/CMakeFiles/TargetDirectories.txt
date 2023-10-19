@@ -1,0 +1,6 @@
+/mnt/d/wsl/workspace_git/public_data/demo2/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/wsl/workspace_git/public_data/demo2/build/CMakeFiles/edit_cache.dir
+/mnt/d/wsl/workspace_git/public_data/demo2/build/CMakeFiles/demo2.dir
+/mnt/d/wsl/workspace_git/public_data/demo2/build/math/CMakeFiles/rebuild_cache.dir
+/mnt/d/wsl/workspace_git/public_data/demo2/build/math/CMakeFiles/edit_cache.dir
+/mnt/d/wsl/workspace_git/public_data/demo2/build/math/CMakeFiles/MathFunctions.dir
